@@ -90,6 +90,8 @@ When the ISS crosses the finish line, note the exact time. If you don’t have a
 
 3. Take a throw-away photo or screenshot with your phone at the point when you want to record an observation. Don’t worry about capturing a real image with the photo. The photo will contain meta-data with the exact time, which you can view on a computer. If photo’s meta-data doesn’t seem to show time down to the second, upload the photo [here](http://exif.regex.info/exif.cgi).
 
+4. Try to get more than one position if possible to increase the accuracy of your report. This ensures correct ID of satellite. 
+
 ## Processing
 
 ### Step 5: Convert your data into coordinates
