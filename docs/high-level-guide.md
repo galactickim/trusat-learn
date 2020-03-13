@@ -15,11 +15,17 @@ Right now, timing a satellite is a relatively manual process and takes some prac
 
 If you’re new to the sport, don’t worry about trying to time a satellite on your first outing. We’ll walk you through a progression of activities to build your skills, familiarize yourself with the night sky, and enjoy yourself along the way.
 
+## How do I know it’s a satellite?
+1. Appearance - Most satellites appear as steady lights, silvery white to reddish in color. A few are very bright, but most look like dim stars. Those that are very bright objects can be visible with the naked eye, but most satellites are much easier to view in even the smallest binoculars. 
+2. Speed - Satellites usually take 3 or 4 minutes to cross the sky. They tend to speed up as they pass high overhead. 
+3. Flight Pattern - Airplanes travel on straight lines; satellites travel on great circles. 
+
+
 ## Level 1
 
 If you look up for long enough, you’ll see a star-like point of light moving continuously across the night sky. That’s a satellite! Spotting your first satellite this way, without worrying about timing it, is a good way to get acquainted with the night sky, and how satellites move through it (if it blinks, it’s probably an airplane).
 
-1. Satellites are most visible in certain windows of the morning and evening, when the sun is low enough for a dark sky, but still high enough to cast light reflected by the satellite. The best time to spot a satellite is 30 - 90 minutes after sunset or before sunrise. Expect to see more stars than you can quickly count when scanning the sky in that time frame.
+1. Satellites are most visible in certain windows of the morning and evening, when the sun is low enough for a dark sky, but still high enough to cast light reflected by the satellite. The best time to spot a satellite is 30 - 90 minutes after sunset or before sunrise. At dusk look towards the east. At dawn look towards the west. Expect to see more stars than you can quickly count when scanning the sky in that time frame.
 2. If it’s a clear night and you’re in an area without too much light pollution, you’ll be able to see a number of satellites with your bare eyes. A pair of binoculars will greatly increase the conditions in which you can spot satellites.
 3. Train your eyes (or binoculars) on a fixed point in the night sky and wait. Relax, breathe deeply, and contemplate just how large our universe is. Pro tip: if you want to look straight up, laying on your back will save your neck.
 
